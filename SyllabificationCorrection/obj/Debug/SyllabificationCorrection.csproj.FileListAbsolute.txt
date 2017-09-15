@@ -1,0 +1,12 @@
+c:\users\michal\documents\visual studio 2013\Projects\SyllabificationCorrection\SyllabificationCorrection\bin\Debug\SyllabificationCorrection.exe.config
+c:\users\michal\documents\visual studio 2013\Projects\SyllabificationCorrection\SyllabificationCorrection\bin\Debug\SyllabificationCorrection.exe
+c:\users\michal\documents\visual studio 2013\Projects\SyllabificationCorrection\SyllabificationCorrection\bin\Debug\SyllabificationCorrection.pdb
+c:\users\michal\documents\visual studio 2013\Projects\SyllabificationCorrection\SyllabificationCorrection\bin\Debug\Newtonsoft.Json.dll
+c:\users\michal\documents\visual studio 2013\Projects\SyllabificationCorrection\SyllabificationCorrection\bin\Debug\Newtonsoft.Json.xml
+c:\users\michal\documents\visual studio 2013\Projects\SyllabificationCorrection\SyllabificationCorrection\obj\Debug\SyllabificationCorrection.csprojResolveAssemblyReference.cache
+c:\users\michal\documents\visual studio 2013\Projects\SyllabificationCorrection\SyllabificationCorrection\obj\Debug\SyllabificationCorrection.Form1.resources
+c:\users\michal\documents\visual studio 2013\Projects\SyllabificationCorrection\SyllabificationCorrection\obj\Debug\SyllabificationCorrection.Properties.Resources.resources
+c:\users\michal\documents\visual studio 2013\Projects\SyllabificationCorrection\SyllabificationCorrection\obj\Debug\SyllabificationCorrection.csproj.GenerateResource.Cache
+c:\users\michal\documents\visual studio 2013\Projects\SyllabificationCorrection\SyllabificationCorrection\obj\Debug\SyllabificationCorrection.exe
+c:\users\michal\documents\visual studio 2013\Projects\SyllabificationCorrection\SyllabificationCorrection\obj\Debug\SyllabificationCorrection.pdb
+c:\users\michal\documents\visual studio 2013\Projects\SyllabificationCorrection\SyllabificationCorrection\obj\Debug\SyllabificationCorrection.Progress.resources
